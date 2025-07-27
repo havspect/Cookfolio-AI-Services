@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cookfollio-ai-services"
+  site-url: "https://havspec.github.io/cookfollio-ai-services"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/havspec/cookfollio-ai-services"
